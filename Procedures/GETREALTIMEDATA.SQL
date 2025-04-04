@@ -7,9 +7,9 @@ AS
   cmd                 VARCHAR2(2000);
   filename            VARCHAR2(50);
   /* API credentials */
-  application_key     VARCHAR2(40) := 'AC1E4FFDEE0D0A192B1A169468740D99';
-  api_key             VARCHAR2(40) := 'e7aceb0e-c2a5-4150-8602-126ba597db59';
-  mac                 VARCHAR2(40) := 'C8:C9:A3:16:B3:3E';
+  application_key     VARCHAR2(40) := '--------------------------';
+  api_key             VARCHAR2(40) := '--------------------------';
+  mac                 VARCHAR2(40) := '------------------';
   /* Weather data variables */
   externaltemperature NUMBER;
   internaltemperature NUMBER;
